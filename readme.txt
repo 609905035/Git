@@ -1,2 +1,2 @@
 Git learn test
-Every dau kown a new thing
+Every day kown a new thing
